@@ -23,7 +23,7 @@ MENU = {
         },
         "cost": 3.0
     }
-#// cool
+
 
 }
 
@@ -100,7 +100,7 @@ while on:
 
 
 
-#cell 41
+#cell 88
 
 
 
