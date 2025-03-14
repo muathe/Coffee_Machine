@@ -98,7 +98,7 @@ while on:
 
 
 
-#cell 46 nickels
+#cell 47 cents
 
 
 
