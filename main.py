@@ -98,7 +98,7 @@ while on:
 
 
 
-#cell 80 (menu items)
+#cell 80 (drink items)
 
 
 
