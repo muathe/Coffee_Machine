@@ -98,7 +98,7 @@ while on:
 
 
 
-#cell 80 (drink Milk)
+#cell 80 (drink Coffee)
 
 
 
